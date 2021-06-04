@@ -1,6 +1,6 @@
 # python-programs
 
-Program to find the fibonacci series between 1 to 100
+Program to find the fibonacci series between 0 to 100
 
     sum1=0
 
@@ -21,3 +21,7 @@ Program to find the fibonacci series between 1 to 100
            sum3=sum
       
            print(sum3)
+           
+           
+           
+           
