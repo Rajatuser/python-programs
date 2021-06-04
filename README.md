@@ -23,5 +23,17 @@ Program to find the fibonacci series between 0 to 100
            print(sum3)
            
            
+python program to find prime numbers between 0 to 101
+   
+    for num in range(0,101):  
+       if num > 1:  
+          for i in range(2,num):  
+              if (num % i) == 0:  
+                   break  
+          else:  
+               print(num)  
+
+           
+           
            
            
